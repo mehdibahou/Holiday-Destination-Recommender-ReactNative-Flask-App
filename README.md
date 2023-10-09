@@ -47,7 +47,8 @@ The frontend of this project is built with React Native, a popular mobile app de
 ## Backend
 
 The backend of this project is built with Flask, a Python web framework, and utilizes Python Selenium for web scraping to fetch real-time travel data. It provides the API endpoints for the frontend to interact with.
-
+![App Layout1](layout1.png)
+![App Layout1](layout2.png)
 ## Usage
 
 1. **Open the Holiday Destination Recommender App on your mobile device.**
